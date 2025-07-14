@@ -74,7 +74,5 @@ This project follows the **PACE** problem-solving framework:
 - **Execute**: Summarize findings & recommend next steps
 
 
-
-
-![Confusion Matrix](Screenshot 2025-07-14 at 15.30.31.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
