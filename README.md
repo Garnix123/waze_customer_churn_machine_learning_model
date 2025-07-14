@@ -73,6 +73,3 @@ This project follows the **PACE** problem-solving framework:
 - **Construct**: Build and evaluate models
 - **Execute**: Summarize findings & recommend next steps
 
-
-![Confusion Matrix](images/confusion_matrix.png)
-
