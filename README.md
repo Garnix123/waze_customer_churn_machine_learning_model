@@ -23,6 +23,7 @@ Target variable:
 - **Churn status** — binary indicator showing whether a user churned (stopped using the app) or was retained.
 
 <img width="650" height="181" alt="Image" src="https://github.com/user-attachments/assets/da48ccf9-2551-4c0e-b63d-d42f1b6cd719" />
+
 - This snippet of first 5 rows demonstrates key variables such as the number of sessions, drives, and navigations, which were important for predicting churn.
 
 ---
