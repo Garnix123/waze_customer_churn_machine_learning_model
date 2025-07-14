@@ -64,6 +64,7 @@ Target variable:
 - Identified the most influential features affecting churn.
 - Provided actionable insights to help Waze improve user retention.
 
+<img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/e6dc430c-0fbc-492f-bf29-1cc444890763" />
 
 This matrix shows:
 - Most users were correctly predicted as retained (top-left)
@@ -77,5 +78,3 @@ This project follows the **PACE** problem-solving framework:
 - **Analyze**: Explore and prepare data
 - **Construct**: Build and evaluate models
 - **Execute**: Summarize findings & recommend next steps
-
-<img width="550" height="380" alt="Image" src="https://github.com/user-attachments/assets/e6dc430c-0fbc-492f-bf29-1cc444890763" />
