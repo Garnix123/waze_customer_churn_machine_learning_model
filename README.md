@@ -73,3 +73,4 @@ This project follows the **PACE** problem-solving framework:
 - **Construct**: Build and evaluate models
 - **Execute**: Summarize findings & recommend next steps
 
+<img width="634" height="438" alt="Image" src="https://github.com/user-attachments/assets/e6dc430c-0fbc-492f-bf29-1cc444890763" />
