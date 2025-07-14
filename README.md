@@ -73,4 +73,4 @@ This project follows the **PACE** problem-solving framework:
 - **Construct**: Build and evaluate models
 - **Execute**: Summarize findings & recommend next steps
 
-![Confusion matrix] (https://github.com/Garnix123/waze_customer_churn_machine_learning_model/blob/4acfc8d69223a5ced534bf630c98b1ff386cd022/Screenshot%202025-07-14%20at%2015.30.31.png)
+![Dataset preview](https://github.com/your-username/your-repo/blob/main/images/data_preview.png?raw=true)
